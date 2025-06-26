@@ -1,0 +1,52 @@
+<style>
+            hr{
+                border: 1px solid black;
+            }
+            body{
+                font-family: Arial;
+                font-size: 20px;
+                background-size: cover;
+               background-image: url("website bg.jpg");
+            }
+            h1 ,div{
+                text-align: center;
+            }
+            h1 {
+                color: aliceblue;
+                margin: 15px;
+                border: 3px solid black;
+                padding: 2%;
+                background-image: url("271121-821644.jpg");
+            }
+            p ,ul{
+                font-size: 20px;
+                margin: 40px;
+            }
+            div{
+                border: 3px ridge black;
+                border-radius: 5px;
+                margin: 5px;
+                font-size: large;
+            }
+            .comp{
+                display: flex;
+                   height: min-content;
+                   border: none;
+                   
+            }
+            .lc hr{
+                border: 2px solid black;
+            }
+            .lc , .rc{
+                width: 50%;
+                border: none;
+            }
+            .rc{
+                background-image: url("1749361250014.jpg");
+               
+            }
+            .rc div{
+                border: 2px solid white;
+                color: aliceblue;
+            }
+        </style>
